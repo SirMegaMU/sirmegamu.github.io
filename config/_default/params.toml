@@ -76,7 +76,7 @@ enabled = true
 ## Comments
 [comments]
 enabled = true
-provider = "disqus"
+provider = "gitalk"
 
 [comments.disqusjs]
 shortname = ""
@@ -108,12 +108,12 @@ serverURL = ""
 lang = ""
 visitor = ""
 avatar = ""
-emoji = ["https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo"]
-requiredMeta = ["name", "email", "url"]
+emoji = [""]
+requiredMeta = [""]
 placeholder = ""
 
 [comments.waline.locale]
-admin = "Admin"
+admin = ""
 
 [comments.twikoo]
 envId = ""
@@ -122,8 +122,8 @@ path = ""
 lang = ""
 
 [comments.cactus]
-defaultHomeserverUrl = "https://matrix.cactus.chat:8448"
-serverName = "cactus.chat"
+defaultHomeserverUrl = ""
+serverName = ""
 siteName = ""
 
 [comments.giscus]
@@ -138,11 +138,11 @@ reactionsEnabled = 1
 emitMetadata = 0
 
 [comments.gitalk]
-owner = ""
-admin = ""
-repo = ""
-clientID = ""
-clientSecret = ""
+owner = "SirMegaMU"
+admin = "SirMegaMU"
+repo = "https://github.com/SirMegaMU/sirmegamu.github.io"
+clientID = "ad33178eb3943cf92c2a"
+clientSecret = "573bfa4f1f008bf30dc594a6e211fae39a49e45f"
 
 [comments.cusdis]
 host = ""

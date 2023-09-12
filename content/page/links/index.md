@@ -20,5 +20,5 @@ menu:
         params:
             icon: link
 
-comments: false
+comments: true
 ---
