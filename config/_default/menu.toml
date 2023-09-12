@@ -14,7 +14,7 @@ name = "GitHub"
 url = "https://github.com/SirMegaMU"
 
 [social.params]
-icon = "github"
+icon = "brand-github"
 
 # Twitter
 [[social]]
@@ -23,7 +23,7 @@ name = "Twitter"
 url = "https://twitter.com/MegaMU666"
 
 [social.params]
-icon = "twitter"
+icon = "brand-twitter"
 
 # Telegram
 [[social]]
@@ -32,16 +32,7 @@ name = "Telegram"
 url = "https://t.me/Mega_MU"
 
 [social.params]
-icon = "telegram"
-
-# Steam
-[[social]]
-identifier = "steam"
-name = "Steam"
-url = "https://steamcommunity.com/id/MegaMU666"
-
-[social.params]
-icon = "steam"
+icon = "brand-telegram"
 
 # Email
 [[social]]
@@ -50,4 +41,4 @@ name = "Email"
 url = "mailto:sirmegamu@gmail.com"
 
 [social.params]
-icon = "email"
+icon = "messages"
