@@ -7,18 +7,47 @@
 #icon = "home"
 #newtab = true
 
+# GitHub
 [[social]]
 identifier = "github"
 name = "GitHub"
 url = "https://github.com/SirMegaMU"
 
 [social.params]
-icon = "brand-github"
+icon = "github"
 
+# Twitter
 [[social]]
 identifier = "twitter"
 name = "Twitter"
 url = "https://twitter.com/MegaMU666"
 
 [social.params]
-icon = "brand-twitter"
+icon = "twitter"
+
+# Telegram
+[[social]]
+identifier = "telegram"
+name = "Telegram"
+url = "https://t.me/Mega_MU"
+
+[social.params]
+icon = "telegram"
+
+# Steam
+[[social]]
+identifier = "steam"
+name = "Steam"
+url = "https://steamcommunity.com/id/MegaMU666"
+
+[social.params]
+icon = "steam"
+
+# Email
+[[social]]
+identifier = "email"
+name = "Email"
+url = "mailto:sirmegamu@gmail.com"
+
+[social.params]
+icon = "email"
