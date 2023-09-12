@@ -1,10 +1,19 @@
 ---
 title: Links
 links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title: 冰柠配绿茶的秘密后花园
+    description: 让美好的时光常驻
+    website: https://www.frozenlemontee.top/
+    image: https://i.loli.net/2021/10/26/rIDnecjG2QAZVvf.jpg
+  - title: HuLu Blog
+    description: 曾经的SOP，现在的SOAP
+    website: https://www.hafuhafu.cn/
+    image: https://www.hafuhafu.cn/wp-content/uploads/2021/09/cropped-cropped-Logo_100.png
+  - title: crying knife
+    description: 谁见幽人独往来，飘渺孤鸿影
+    website: https://retaw.org/
+    image: https://retaw.org/wp-content/uploads/2020/11/cropped-9931B0A6-5B5E-4E47-A0BE-AFFA1529CF86.png
+
 menu:
     main: 
         weight: 4
@@ -13,21 +22,3 @@ menu:
 
 comments: false
 ---
-
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.
