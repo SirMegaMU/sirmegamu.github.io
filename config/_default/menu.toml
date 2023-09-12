@@ -32,7 +32,7 @@ name = "Telegram"
 url = "https://t.me/Mega_MU"
 
 [social.params]
-icon = "brand-telegram"
+icon = "telegram"
 
 # Email
 [[social]]
