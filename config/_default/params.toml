@@ -140,7 +140,7 @@ emitMetadata = 0
 [comments.gitalk]
 owner = "SirMegaMU"
 admin = "SirMegaMU"
-repo = "https://github.com/SirMegaMU/sirmegamu.github.io"
+repo = "sirmegamu.github.io"
 clientID = "ad33178eb3943cf92c2a"
 clientSecret = "573bfa4f1f008bf30dc594a6e211fae39a49e45f"
 
