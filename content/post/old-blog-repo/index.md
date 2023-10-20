@@ -5,9 +5,9 @@ slug: old-blog-repo
 date: 2023-10-20
 image: cover-lucifer.png
 categories:
-    - Archieve
+    - Archive
 tags:
-    - Archieve
+    - Archive
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 comments: true
 ---
